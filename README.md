@@ -3,7 +3,9 @@
 # Oi, tudo bem? 
 Esse é um estudo da tela de login do Instagram. 🙃 Usando flexbox!
 
-Os requisitos são:
-[link](https://www.w3schools.com/html/) HTML básico
-[link](https://developer.mozilla.org/pt-BR/docs/Web/CSS) CSS básico
+## Os requisitos são:
+
+[HTML básico](https://www.w3schools.com/html/) 
+[CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
 🚀 Let's code! 🚀
